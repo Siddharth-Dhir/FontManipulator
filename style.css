@@ -1,0 +1,20 @@
+.BG{
+   background-image: url("TotallyAVeryLongNameForABigImage.jpg");
+
+   height: 200%;
+   
+    background-size: cover;
+    
+    text-align: center;
+}
+
+.aVeryLongNameForAcopyrightFooter{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    
+    
+}
